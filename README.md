@@ -8,4 +8,5 @@ UCSD CSE 8B Programming Project
 - Install JDK 1.8.0_131
 - Ensure you have the JavaFX SDK
 
-Use the command `javac Gui2048.java`
+Compile all files `javac *.java`
+Use the command `java Gui2048` 
